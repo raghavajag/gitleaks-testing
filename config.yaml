@@ -1,5 +1,0 @@
-service:
-  name: test-app
-  apiKey: "AIzaSyBqe95nCUomWkU9PnZT_OlV_NCAZnTmyz0" # Example Google API Key
-  token: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoidGVzdEB0ZXN0LmNvbSIsInJvbGUiOiJVc2VyIiwiZXhwIjoxNTYzNjAzMjg0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0LmxvY2FsLyIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3QubG9jYWwvIn0.gwmVBsF54alL4FiS7H-7yFEKqjoDHmwH_526BbFgP8k"
-
